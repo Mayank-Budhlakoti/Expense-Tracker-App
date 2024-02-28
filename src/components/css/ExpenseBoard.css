@@ -1,0 +1,67 @@
+.expenseBoardContainer {
+  padding: 20px;
+  width: 100%;
+  margin: 10px auto;
+  border: 5px solid black;
+  border-radius: 10px;
+  background-color: black;
+}
+
+.expenseRow {
+  display: flex;
+  background-color: #4b4b4b;
+  border-radius: 5px;
+  margin: 10px 0px;
+  padding: 10px;
+  height: fit-content;
+  align-items: center;
+}
+
+.filterContainer{
+  display: flex;
+  color: white;
+}
+
+.filterContainer h4{
+  flex-grow: 1;
+}
+
+.yearInput{
+  width: 100px;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.expenseBoardDate{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  box-shadow: white 0px 5px 15px;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.expenseBoardTitle{
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.expenseBoardAmount{
+  display: flex;
+  font-size: 20px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  background-color: #41005f;
+  padding: 10px 30px;
+  height: fit-content;
+  border-radius: 10px;
+  border: 2px solid white;
+
+}
