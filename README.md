@@ -8,6 +8,9 @@ Additionally, the Expense Tracker app showcases controlled components. Through c
 Lastly, the app employs conditional rendering and list rendering techniques to dynamically display content based on user interactions and data. For instance, the expense board dynamically filters and renders expenses based on the selected year, demonstrating React's ability to efficiently handle complex UI logic and data manipulation.
 Overall, by leveraging these React concepts, the Expense Tracker app delivers a responsive, organized, and user-friendly interface for effectively managing expenses.
 
+<img width="385" alt="Screenshot 2024-02-29 at 5 12 33 PM" src="https://github.com/Mayank-Budhlakoti/Expense-Tracker-App/assets/25303415/9e7df34c-3c2d-4ac4-92e3-2fc3a2189cd1">
+
+
 **Features**
 
 Add new expenses with title, amount, and date.
